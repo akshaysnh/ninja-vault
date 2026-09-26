@@ -4,7 +4,7 @@ A ninja-guarded password vault that runs entirely in your browser. Your logins a
 
 It's a single HTML file. Open it and it works.
 
-**[Open the live version →](https://YOUR-USERNAME.github.io/ninja-vault/)**
+**[Open the live version →](https://akshaysnh.github.io/ninja-vault/)**
 
 ---
 
@@ -105,7 +105,3 @@ The master password itself is never stored. A few harmless settings are kept une
 | Click during the delete scene | Skip the animation |
 
 ---
-
-## License
-
-Add a license of your choice, for example [MIT](https://choosealicense.com/licenses/mit/).
